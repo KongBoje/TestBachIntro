@@ -47,3 +47,13 @@ echo 'hello world' > "filename"  -deletes what's already in the file and instead
 
 echo 'hello world' | tee "filename"  -Sends the output to both a file and the terminal, "|" = a pipe and the ' | ' sends the output of dmesg to tee.
 
+
+## Docker tutorial
+
+http://tiny.cc/py3dny  -Teaches you what a container is
+
+https://www.docker.com/community-edition  -Download and install Docker here.
+
+docker run -it debian  -try this, You get redirected into shells debian.
+
+Read this article about containers: http://tiny.cc/4qflqy.
