@@ -5,6 +5,8 @@ Hello World!
 ## git tutorial
 https://try.github.io/levels/1/challenges/1
 
+https://community.linuxmint.com/tutorial/view/100  -Commands tutorial
+
 
 ## Commands
 git add .
