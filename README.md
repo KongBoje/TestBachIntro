@@ -22,7 +22,7 @@ git push
 
 Touch <name>
 
-<program name> <filename>
+"program name" 'filename'
 
 (stdout) > Filename
 
