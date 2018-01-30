@@ -57,3 +57,20 @@ https://www.docker.com/community-edition  -Download and install Docker here.
 docker run -it debian  -try this, You get redirected into shells debian.
 
 Read this article about containers: http://tiny.cc/4qflqy.
+
+container = wrapper.
+
+docker ps -a = a is a new instance, Hej() f.eks.
+
+docker run -it alpine:latest /bin/sh  -alpine is the same as debian but smaller and provides with the latest version. Isolated containers.
+
+docker rm "name"  -removes a file
+
+sudo docker run -it debian  -Directs you into the debian container where 
+you can use commands like ls, cd etc. name on that container = 
+"root@'name'"
+
+vagrant@vagrant:~$ sudo docker ps -a  -gives me a list of the container 
+ID's
+
+github/soft mappe = competition, echo istedet for ehco
