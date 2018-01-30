@@ -26,7 +26,7 @@ Touch <name>
 
 echo "some text" > aNewFile
 
-cat << EOF > data/my_data.csv multi creation of a file.
+cat << EOF > data/my_data.csv  -multi creation of a file.
 
 ## Writing a bash script
 
